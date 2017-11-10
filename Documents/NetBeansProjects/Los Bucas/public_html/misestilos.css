@@ -1,0 +1,95 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 26, 2017, 6:30:59 PM
+    Author     : 00140302
+*/
+ul li{
+    list-style-type: none;
+    display: inline;
+    font-size: 60px;
+    background: #7E5109;
+    padding: 8px;
+    border-radius:10px;
+    color: #DAF7A6;
+}
+#cabecera{
+    text-align: center;
+    font-family:Algerian;
+    color: #7E5109;
+}
+#menu{
+    text-align: center;
+}
+
+#cuerpo{
+    text-align: center;
+    font-size: 25px;
+    font-family: Algerian;
+    
+    
+}
+img{
+    border-radius: 10px;
+    
+}
+#pie{
+    text-align: center; 
+    font-family: Algerian;
+    background: #7E5109;
+    color: #DAF7A6;
+}
+
+
+form{
+    width:600px;
+    margin: 0 auto;
+    border: 2px solid buttonface;
+    border-radius: 10px;
+    padding: 4em;
+}
+
+#formulario h1{
+    text-align: center;
+    
+        
+}
+label{
+    display: inline-block;
+    width: 165px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 1em;
+    
+}
+
+input,textarea{
+    width: 400px;
+    font: 1.1 em cursive;
+    border: 1px solid #DAF7A6;
+    
+}
+input:focus,textarea:focus{
+    border-color: #7E5109 ;
+}
+textarea{
+    vertical-align: middle;
+}
+.button{
+    padding-left: 5px;    
+}
+button{
+     font-size: 1.3em;
+    font-weight: bold;
+ }
+ a{
+     color: #DAF7A6;
+     text-decoration: none;
+ }
+ a:hover{
+     font-size: 61px;
+     color: #FDEDEC;
+ }
