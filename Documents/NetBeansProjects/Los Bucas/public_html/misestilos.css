@@ -10,7 +10,7 @@ and open the template in the editor.
 ul li{
     list-style-type: none;
     display: inline;
-    font-size: 60px;
+    font-size: 50px;
     background: #7E5109;
     padding: 8px;
     border-radius:10px;
@@ -90,6 +90,6 @@ button{
      text-decoration: none;
  }
  a:hover{
-     font-size: 61px;
+     font-size: 30px;
      color: #FDEDEC;
  }
